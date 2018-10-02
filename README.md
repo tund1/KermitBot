@@ -1,2 +1,0 @@
-# KermitBot
-Kermit Bot
